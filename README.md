@@ -10,4 +10,4 @@ Aquí encontraras mi proceso de aprendizaje, experimentos de código y proyectos
 - xxxxx
 
 ## Contacto
--Correo oficial: ronnyrojas.studio@gmail.com
+- Correo oficial: ronnyrojas.studio@gmail.com
